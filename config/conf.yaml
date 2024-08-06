@@ -1,0 +1,8 @@
+POSTGRE:
+  DB_URL: "host=db user=user password=password dbname=testovoe port=5432 sslmode=disable"
+
+LOGGER:
+  PRODUCTION: "production"
+  DEVELOPMENT: "development"
+
+THIS_APP_URL: "0.0.0.0:3003"
